@@ -1,0 +1,9 @@
+2. A  fim  de  ger enciar  as  vendas  em  uma  loja,  os  seguintes  requis itos  devem  se r  atend idos:
+ ? Vendas  são  ef etuadas  por  u m  vendedor   em  u m  det er mina do  momento  ( indicado  por  uma  data  e  u m  horár io).  Vendedor es  recebem  um  s a lário  base  e  c omissã o  s obre  a s venda s,  a qual representa 10%  do  valor da venda .
+ ? Vendedor es  p ossuem  ma tricula,  nome,   endereço,  t elefone  e  CPF .  
+
+? Vendas  podem  s er  à  vista   ou  a  prazo.  Vendas  a   prazo  poss uem  pa rcelas  de  paga ment o, com sua  data  de venciment o  e  valor. 
+ ? Vendas  podem  ou  não  esta r r elaci onadas a  um  Client e. Vendas em dinheir o nem s empr e est ão relacionadas a  um  Client e.
+  ? Client es  são  cada str ados  c om  s eu  Nome,   CPF,   Identidade,  Ender eço  e  T elef one.
+ ? Vendas  envol vem  produtos,  sendo  que  para   cada  venda  a   quantida de  vendida  d o produt o deve  ser  registr ada. 
+? Produtos poss uem  código,  descrição, pr eço e  quantida de  em  estoque. 
